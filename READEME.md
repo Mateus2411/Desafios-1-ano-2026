@@ -1,7 +1,1 @@
-# 🚀 Área de Desafios para Calouros
 
-- Esse repositório foi criado pra você que quer **colocar à prova tudo que aprendeu**, sair do básico e começar a realmente sentir o gostinho da programação acontecendo na prática.  
-Aqui a ideia é simples: **experimentar, errar, acertar, quebrar a cabeça e evoluir**. Cada desafio foi pensado pra te puxar um pouco além, mas sem deixar pesado demais.
-
-- Se você é calouro e tá com vontade de melhorar, testar seu raciocínio e ver sua evolução acontecendo de verdade, esse é o lugar certo.  
-Se joga, senhor calouro: quanto mais você pratica, mais longe você vai.
