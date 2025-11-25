@@ -5,3 +5,5 @@ Aqui a ideia é simples: **experimentar, errar, acertar, quebrar a cabeça e evo
 
 - Se você é calouro e tá com vontade de melhorar, testar seu raciocínio e ver sua evolução acontecendo de verdade, esse é o lugar certo.  
 Se joga, senhor calouro: quanto mais você pratica, mais longe você vai.
+
+- [Caso tenha alguma duvida acesse o repositorio base com todos os assuntos e explicaçoes:](https://github.com/Mateus2411/Programacao-1.git)
