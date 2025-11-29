@@ -1,1 +1,1 @@
-// Array de alunos (somente nomes).
+// Array de alunos (nome, sala, turma, idade, qual o ano que esle esta) min 10 alunos.

@@ -1,1 +1,1 @@
-// Função que retorna frase formatada.
+// Função que pegue o nome do usuario (por completo) e retorne as iniciais maiusculas.

@@ -1,10 +1,10 @@
 // Sistema de cadastro de alunos.
 /*
 Crie um sistema que permite:
-    cadastrar alunos (nome, idade, 3 notas)
-    armazenar em um array de objetos
-    calcular média
-    identificar aprovação
-    listar todos os alunos
-Usa tudo: decisão, array, repetição, funções e objetos.
+    1 - cadastrar alunos (nome, idade, 3 notas)
+    2 - armazenar em um array de objetos
+    3 - calcular média
+    4 - identificar aprovação
+    5 - listar todos os alunos
+Usar tudo: decisão, array, repetição, funções e objetos.
 */
