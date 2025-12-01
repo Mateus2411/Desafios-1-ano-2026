@@ -1,5 +1,5 @@
+
 /*
-Função que  extrai as informaçoes do array, acha um padrão, aplique na formula:
 const dados = [
   "a24",
   "zz-15k",
@@ -17,26 +17,29 @@ const dados = [
   "n23abc47",
   "final--55C"
 ];
-separe cada numero das letras e caracteres especiais, aplique a formula e retorne o resultado.
+Caso tenha mais de um numero no elemento do array, some eles!
 
-formula para cada elemento do array:
+Separe cada numero das letras e caracteres especiais, aplique a formula e retorne o resultado.
+Formula para cada elemento do array:
 
 let numeroDaRaiz = 200
 
 f(a) = (raizQuadrada(numeroDaRaiz) + a) / 2
 "a" é o numero extraido do elemento do array.
 
-cada vez que o resultado de f(a) for calculado, adicione 10,2 ao numeroDaRaiz para o proximo calculo.
+Cada vez que o resultado de f(a) for calculado, adicione 10,2 ao numeroDaRaiz para o proximo calculo.
 
-aplique o resultado de f(a) na
-formula final:
+Aplique o resultado de f(a) na formula final:
+
 g(r) = (2 * r) * 3 + 10​
+
 "r" é o resultado da formula f(a).
 
 exemplo de extração:
+
 elemento: "a24"  -> numero extraido: 24
 
-O valor de 'f(a)' & 'g(r)' é representativo da formula, podendo ser utilizado uma let "algumaCoisa" para se refirir ao valor.
+O valor de 'f(a)' & 'g(r)' é representativo da formula, podendo ser utilizado uma let "resultadoF" para se refirir ao valor.
 
 função da media:
 
@@ -50,3 +53,4 @@ function media(numeroDeElementos) {
 
 Agora é com você!
 */
+
