@@ -8,4 +8,4 @@ Se joga, meu calouro: quanto mais você pratica, mais longe você vai.
 
 - Caso queira testar seus conhecimentos na criação da parte visual, recomendo os Grandes Desafios, pois renderão um bom conhecimento, desenvolvimento e treino para futuras aplicações maiores.
 
-- [Caso tenha alguma dúvida, acesse o repositório base com todos os assuntos e explicações:](https://github.com/Mateus2411/Programacao-1.git)
+- [Caso tenha alguma dúvida, acesse o repositório base com todos os assuntos e explicações:](https://github.com/ldmfabio/Programacao.git)
