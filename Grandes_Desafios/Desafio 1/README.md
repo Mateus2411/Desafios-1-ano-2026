@@ -1,11 +1,11 @@
 # 🟦 Grandes Desafios
 
-## **1. Sistema de Cadastro de Alunos**
+## **1. Sistema de Gerenciamento Escolar**
 
 Utiliza:
 
 - decisões
-- arrays
+- arrays de objetos
 - repetição
 - funções
 - objetos
@@ -13,6 +13,9 @@ Utiliza:
 Funcionalidades:
 
 - cadastrar alunos
+- adicionar notas e frequência
 - calcular médias
 - verificar aprovação
-- listar alunos cadastrados
+- listar por turma
+- gerar relatórios
+- estatísticas gerais
